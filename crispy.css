@@ -1,0 +1,1445 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: verdana;
+	
+}
+body1{
+	background: linear-gradient(120deg,rgb(5, 5, 5),rgb(63, 61, 58));
+}
+
+@media (min-width:801px) and (max-width:2000px)
+{
+	#but1:hover{
+    cursor: pointer;
+	}
+	.but6{
+			border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: red;
+	color: white;
+	position: absolute;
+	top:250px;
+	left:30%;
+	}
+		.po1{
+		position:absolute;
+		top:360px;
+		left:56%;
+		font-size: 30px;
+		background: orange;
+	}
+	.nam1{
+		position:absolute;
+		top:270px;
+		left:53%;
+	}
+	.po{
+		position:absolute;
+		top:260px;
+		left:56%;
+		font-size: 30px;
+		background: orange;
+	}
+	.nam{
+		position:absolute;
+		top:190px;
+		left:53%;
+	}
+	.pos{
+
+	}
+	.hline{
+		height: 400px;
+		width: 1px;
+		background: black;
+			position:absolute;
+		top:200px;
+		left:50%;
+	}
+	.section7{
+		height: 660px;
+		width:100%;
+		background: linear-gradient(to bottom,rgb(224, 14, 14),orange);
+	}
+	.img5{
+		
+		width: 30%;
+		position:absolute;
+		top:70px;
+		left:10%;
+	}
+	.div7{
+		height: 480px;
+		width: 1200px;
+		background:white;
+
+		position: absolute;
+	top: 140px;
+	left: 5%;
+
+	}
+
+
+
+		  .wall02{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	padding-bottom: 13px;
+	
+	position: absolute;
+	top: 680px;
+	left: 5%;
+	
+	
+
+  }
+  .wall02 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall02 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+		  .wall01{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	padding-bottom: 13px;
+	
+	position: absolute;
+	top: 680px;
+	left: 28%;
+	
+	
+
+  }
+  .wall01 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall01 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+	  .wall9{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	padding-bottom: 13px;
+	
+	position: absolute;
+	top: 680px;
+	left: 52%;
+	
+	
+
+  }
+  .wall9 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall9 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+		  .wall8{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	padding-bottom: 13px;
+	
+	position: absolute;
+	top: 680px;
+	left: 78%;
+	
+  }
+  .wall8 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall8 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+		  .wall7{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 250px;
+	left: 77%;
+	
+  }
+  .wall7 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall7 button{
+	border-radius: 25px;
+	padding: 6px 8px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+			  .wall6{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 250px;
+	left: 52%;
+	
+  }
+  .wall6 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall6 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+		  .wall5{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 250px;
+	left: 28%;
+	
+  }
+  .wall5 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall5 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+	  .wall4{
+	background: rgb(216, 214, 214);
+	
+	width:20%;
+	height: 350px;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 250px;
+	left: 5%;
+	
+  }
+  .wall4 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall4 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall4 button:hover {
+	
+	background-color: rgb(158, 5, 125);
+  }
+	.but5{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 17px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:120px;
+	left:33%;
+	}
+	.but4{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 17px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:120px;
+	left:25%;
+	}
+	.but3{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 17px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:120px;
+	left:13%;
+	}
+	.but2{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 17px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:120px;
+	left:5%;
+	}
+
+	  .div5{
+	position: absolute;
+	
+  height:1200px;
+  width: 100%;
+   overflow:hidden;
+  	background: linear-gradient(to bottom,rgb(224, 14, 14),orange,rgb(224, 14, 14));
+}
+	.w1{
+		position: absolute;
+		top: 160px;
+		left:50px;
+		height: 250px;
+		width: 250px;
+		background: skyblue;
+	}
+	.bn2{
+		align-items: center;
+		text-align: center;
+		padding-top: 1%;
+	}
+	.moven{
+		position: absolute;
+		top:-20px;
+		left: 250px;
+		color: white;
+		font-size: 60px;
+		  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+		  text-align: center;
+	}
+	.backimg{
+		position: absolute;
+		top:30px;
+		left: 50px;
+	}
+	.banner{
+		
+	
+  height:100px;
+  width: 100%;
+  background: red;
+  /*background-image: url('fav.jpg');
+   background-size: cover;
+   background-position: center; /* Center the image/
+  background-repeat: no-repeat;*/
+	}
+	.lbanner{
+		
+	
+  height:625px;
+  width: 100%;
+  background: white;
+	}
+	.img2001{
+		height: 30px;
+		width: 30px;
+		position: absolute;
+		left: 6%;
+		top:68%;
+	}
+	.img2003{
+		height: 40px;
+		width: 40px;
+		position: absolute;
+		left: 12%;
+		top:67%;
+	}
+	.img2002{
+		height: 40px;
+		width: 40px;
+		position: absolute;
+		left: 18%;
+		top:67%;
+	}
+	.m002{
+		position: absolute;
+		left: 65%;
+		top:20%;
+
+	}
+	.m001{
+		position: absolute;
+		left: 35%;
+		top:20%;
+
+	}
+.l003{
+		position: absolute;
+		left: 75%;
+		top:30%;
+	}
+	.l002{
+		position: absolute;
+		left: 45%;
+		top:30%;
+	}
+	.l001{
+		position: absolute;
+		left: 5%;
+		top:30%;
+	}
+	.fline9{
+		position: absolute;
+		left: 35px;
+		padding: 0px;
+		height:200px;
+		width:1px;
+		background-color:white;
+
+	}
+	.about1{
+		padding-top: 20px;
+		padding-left: 20px;
+		word-spacing: 2.5px;
+		letter-spacing: 5.5px;
+	}
+	.div4{
+	position: relative;
+	
+  height:400px;
+  width: 100%;
+  overflow: hidden;
+  background-color: black;
+}
+	body{
+		background-image: linear-gradient(to bottom,rgb(224, 14, 14),orange,rgb(255, 81, 28),rgb(224, 14, 14));
+	}
+	.z3{
+		display: inline-block;
+		background: white;
+		width: 40%;
+		height: 120px;
+		border-radius: 25px;
+		margin-top: 50px;
+		margin-left: 2%;;
+		
+	}
+	.z3 h2,p{
+		letter-spacing: 3px;
+		padding-top: 3%;
+		padding-left: 3%;
+	}
+	.xc1{
+		display: flex;
+		justify-content: flex-end;
+	}
+	.img02,.img01,.img03{
+		margin-left: 2%;
+		margin-top: 3%;
+	}
+	}
+	.z1{
+		display: inline-block;
+		background: white;
+		width: 40%;
+		height: 120px;
+		border-radius: 25px;
+		margin-top: 50px;
+		margin-left: 2%;;
+		
+	}
+	.z1 h2,p{
+		letter-spacing: 3px;
+		padding-top: 3%;
+		padding-left: 3%;
+	}
+	.z2{
+		display: inline-block;
+		background: white;
+		width: 40%;
+		height: 120px;
+		border-radius: 25px;
+		margin-top: 50px;
+		margin-left: 1%;;
+		
+	}
+	.z2 h2,p{
+		letter-spacing: 3px;
+		padding-top: 3%;
+		padding-left: 3%;
+	}
+.div1{
+	position: relative;
+    
+  height:650px;
+  width: 100%;
+  overflow: hidden;
+}
+#n1{
+	color: rgb(228, 222, 222);
+	 letter-spacing: 3px;
+	 padding-top: 3%;
+	 padding-left: 3%;
+	 display: inline-block;
+			width:25%;
+			font-size: 30px;
+}
+ul li{
+  display: inline;
+  
+}
+a{
+	
+	text-decoration: none;	
+	color: aliceblue;
+}
+#n2{
+	color: rgb(241, 236, 236);
+	 letter-spacing: 3px;
+	 padding-top: 50px;
+	 padding-left: 30px;
+	 display: inline-block;
+			width:65%;
+			text-align: right;
+			
+}
+
+#img1 {
+	position: absolute;
+	top: 59%;
+	left: 80%;
+	transform: translate(-50%,-50%);
+	border-radius: 250px 0 0 250px;
+
+  }
+  #n3,#p1{
+	font-size: 100%;
+	color: aliceblue;
+  }
+  #n3{
+  	font-size: 25px;
+	position: absolute;
+	top:30%;
+	left:5%;
+	opacity: 0.5;
+  }
+  #p1{
+	position: absolute;
+	top:39%;
+	left:1.7%;
+
+  }
+  #line1{
+	background-color: rgb(189, 186, 186);
+	height: 0.5px;
+	width: 450px;
+	position: absolute;
+	top:65%;
+	left:5%;
+	padding: 0;
+}
+
+	#n1{
+		color: rgb(228, 222, 222);
+		 white-space: nowrap;
+		 padding-top: 0%;
+		 padding-left: 3%;
+		 display: inline-block;
+				width:20%;
+				font-size: 25px;
+	}
+
+#but1{
+	border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 17px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	margin-left: 210px;
+	margin-top: 20px;
+	position: absolute;
+		top: 75%;
+		left: 7%;
+		transform: translate(-50%,-50%);
+}
+.div2{
+	position: relative;
+	
+  height:650px;
+  width: 100%;
+  overflow: hidden;
+}
+.img2{
+	width: 60%;
+    height: 45%;
+	margin-left: 20%;
+	margin-top: 15%;
+	border-radius:75px 75px 75px 75px;
+	
+  }
+  .wall1{
+	background: rgb(216, 214, 214);
+	
+	width:25%;
+	height: 60%;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 55%;
+	left: 47%;
+	transform: translate(-50%,-50%);
+	overflow: hidden;
+  }
+  .wall1 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall1 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall1 button:hover {
+	
+	background-color: rgb(158, 5, 125);
+  }
+  #n4,#n5{
+	color: rgb(228, 222, 222);
+	text-align: center;
+	margin-top: 4%;
+  }
+
+  .wall2{
+	background: rgb(216, 214, 214);
+	
+	width:25%;
+	height: 60%;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 55%;
+	left: 17%;
+	transform: translate(-50%,-50%);
+	overflow: hidden;
+  }
+  .wall2 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall2 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall2 button:hover {
+	
+	background-color: rgb(158, 5, 125);
+  }
+  .img3{
+	width: 60%;
+    height: 45%;
+	margin-left: 20%;
+	margin-top: 15%;
+	border-radius:75px 75px 75px 75px;
+	
+  }
+  .wall3{
+	background: rgb(216, 214, 214);
+	
+	width:25%;
+	height: 60%;
+	
+	border-radius: 25px;
+  
+	
+	
+	position: absolute;
+	top: 55%;
+	left: 77%;
+	transform: translate(-50%,-50%);
+	overflow: hidden;
+  }
+  .wall3 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall3 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall3 button:hover {
+	
+	background-color: rgb(158, 5, 125);
+  }
+  .img4{
+	width: 60%;
+    height: 45%;
+	margin-left: 20%;
+	margin-top: 15%;
+	border-radius:75px 75px 75px 75px;
+	
+  }
+  .div3{
+	position: relative;
+	
+  height:750px;
+  width: 100%;
+  overflow: hidden;
+}
+.div2 button{
+padding: 6px 8px;
+}
+}
+@media (min-width:1px) and (max-width:8px)
+
+{   
+body{
+		background-image: linear-gradient(to bottom,rgb(224, 14, 14),orange,rgb(255, 81, 28),rgb(233, 203, 32));
+	}
+	.wall3800{
+	display: none;
+}
+	.div1{
+		position: relative;
+		background: linear-gradient(120deg,brown,orange);
+	  height:325px;
+	  width: 100%;
+	  overflow: hidden;
+	}
+	#n1{
+		color: rgb(228, 222, 222);
+		 letter-spacing: 3px;
+		 padding-top: 3%;
+		 padding-left: 3%;
+		 white-space: nowrap;
+				font-size: 15px;
+	}
+	ul li{
+	  display: inline;
+	}
+	#n2{
+		display: none;
+				
+	}
+	#n3{
+		position: absolute;
+		top:30%;
+		left:5%;
+		font-size: 20px;
+		color: aliceblue;
+	  }
+	  #img1 {
+		position: absolute;
+		top: 59%;
+		left: 80%;
+		transform: translate(-50%,-50%);
+		border-radius: 250px 0 0 250px;
+	  
+	  }
+	  #p1{
+		position: absolute;
+		top:48%;
+		left:5%;
+		font-size: 2%;
+		color: aliceblue;
+	  }
+	  #line1{
+		background-color: rgb(189, 186, 186);
+		height: 0.5px;
+		width: 450px;
+		position: absolute;
+		top:65%;
+		left:5%;
+	}
+	#but1{
+		border: 2px solid white;
+		color: white;
+		background: transparent;
+		border-radius: 50px;
+		font-size: 8px;
+		margin: 6px;
+		opacity: 0.7;
+		padding: 2px;
+	
+		position: absolute;
+			top: 75%;
+			left: 26%;
+			transform: translate(-50%,-50%);
+	}
+	.img2{
+		width: 37%;
+		height: 40%;
+		margin-left: 30%;
+		margin-top: 15%;
+		border-radius:25px 25px 25px 25px;
+		
+	  }
+	  .img3{
+		width: 37%;
+		height: 40%;
+		margin-left: 30%;
+		margin-top: 15%;
+		border-radius:25px 25px 25px 25px;
+		
+		
+	  }
+	  .wall1 button{
+		border-radius: 25px;
+		padding: 1.5px;
+		margin-left:30%;
+		margin-top: 15%;
+		background-color: rgb(5, 158, 5);
+		color: white;
+	}
+	.wall1{
+		background: rgb(216, 214, 214);
+		
+		width:35%;
+		height: 60%;
+	
+		border-radius: 25px;
+	  margin-left: 2%;
+		display: inline-block;
+		overflow: hidden;
+	  }
+	  .wall2{
+		background: rgb(216, 214, 214);
+		margin-left: 3%;
+		width:35%;
+		height: 60%;
+		margin-right: 3%;
+		display: inline-block;
+		border-radius: 25px;
+
+	 
+		overflow: hidden;
+	  }
+	  #n4,#n5{
+		color: rgb(254, 255, 255);
+		text-align: center;
+	font-size: 20px;
+         margin-top: 3%; 
+		
+	  }
+	  .wall1 p{
+		padding-top: 15px;
+	text-align: center;
+	 font-size: 15px;
+	  }
+	  .wall2 p{
+		padding-top: 15px;
+	text-align: center;
+	 font-size: 15px;
+	  }
+	  .wall1 button{
+		border-radius: 25px;
+		padding: 3px;
+		margin-left:31%;
+		margin-top: 7%;
+		background-color: rgb(102, 192, 29);
+		color: white;
+		font-size: 10px;
+	}
+	.wall1 button:hover {
+		
+		background-color: rgb(158, 5, 125);
+	  }
+	  .wall2 button{
+		border-radius: 25px;
+		padding: 3px;
+		margin-left:31%;
+		margin-top: 7%;
+		background-color: rgb(102, 192, 29);
+		color: white;
+		font-size: 10px;
+	}
+	.wall2 button:hover {
+		
+		background-color: rgb(158, 5, 125);
+	  }
+	  .div2{
+		position: relative;
+		background: linear-gradient(120deg,rgb(5, 5, 5),rgb(63, 61, 58));
+	  height:325px;
+	  width: 100%;
+	  overflow: hidden;
+	  display: flex;
+	justify-content: center;
+	align-items: center;
+	}
+	.div3{
+		position: relative;
+		background: linear-gradient(120deg,rgb(29, 226, 11),rgb(4, 187, 34));
+	  height:325px;
+	  width: 100%;
+	  overflow: hidden;
+	}
+}
+@media (min-width:0px) and (max-width:800px)
+{
+body{
+		background-image: linear-gradient(to bottom,rgb(224, 14, 14),orange,rgb(255, 81, 28),rgb(233, 203, 32));
+	}
+	.backimg{
+		position: absolute;
+		top:30px;
+		left: 25px;
+		height: 30px;
+	}
+	#n2{
+		display: none;
+				
+	}
+	.div1,.div2,.div3{
+		position: relative;
+		
+	  height:650px;
+	  width: 100%;
+	  overflow: hidden;
+	}
+	#n1{
+		color: rgb(228, 222, 222);
+		 letter-spacing: 3px;
+		 padding-top: 13%;
+		 padding-left: 23%;
+		 white-space: nowrap;
+				font-size: 25px;
+				text-align: center;
+	}
+		  #img1 {
+		position: absolute;
+		top: 55%;
+		left: 65%;
+
+	  border-radius:250px 0px 0px 250px;
+	 border-right: 30px solid black;
+		width: 70%;
+	  
+	  }
+	    #p1{
+		position: absolute;
+		top:24%;
+		left:15%;
+		font-size: 10px;
+		color: aliceblue;
+		opacity: 0.7;
+		
+	  }
+	  	#but1{
+		border: 2px solid white;
+		color: white;
+		background: transparent;
+		border-radius: 50px;
+		font-size: 17px;
+		margin: 6px;
+		opacity: 0.7;
+		padding: 2px;
+	
+		position: absolute;
+			top: 85%;
+			left: 46%;
+			transform: translate(-50%,-50%);
+	}
+	  #line1{
+		background-color: rgb(189, 186, 186);
+		height: 0.5px;
+		width: 450px;
+		position: absolute;
+		top:75%;
+		left:5%;
+	}
+	   .wall3{
+	display: none;
+}
+.wall1{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 45%;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		overflow: hidden;
+	  }
+	  .wall2{
+		background: rgb(216, 214, 214);
+		margin-left: 10%;
+		width:40%;
+		height: 45%;
+		margin-right: 13%;
+		display: inline-block;
+		border-radius: 25px;
+
+	 
+		overflow: hidden;
+	  }
+	  	.img2{
+		width: 63%;
+		height: 43%;
+		margin-left: 18%;
+		margin-top: 15%;
+		border-radius:25px 25px 25px 25px;
+		
+	  }
+	  .img3{
+		width: 63%;
+		height: 43%;
+		margin-left: 18%;
+		margin-top: 15%;
+		border-radius:25px 25px 25px 25px;
+		
+		
+	  }
+	  .z1,.z2,.z3{
+	  	background-color: unset;
+	  }
+
+	  .h30100,.po2,.h30200,.h30300
+	  {
+	  	
+	  	
+	  	 white-space: nowrap;
+	  }
+	  .xc1,.xc2,.xc3{
+	  	background: white;
+	  	opacity: 0.5;
+	  }
+	  .div4{
+	  	background: black;
+	  	position: relative;
+		
+	  height:325px;
+	  width: 100%;
+	  overflow: hidden;
+	  }
+	  .about1{
+	  	padding-top: 20px;
+	  	padding-left: 20px;
+	  }
+	  .l001{
+	  	font-size: 15px;
+	  	padding-top: 30px;
+	  }
+	  .img2001{
+	  	height: 20px;
+		width: 20px;
+		position: absolute;
+		left: 7%;
+		top:70%;
+	  }
+	  	  .img2002{
+	  	height: 20px;
+		width: 20px;
+		position: absolute;
+		left: 27%;
+		top:70%;
+	  }
+	  	  .img2003{
+	  	height: 20px;
+		width: 20px;
+		position: absolute;
+		left: 47%;
+		top:70%;
+	  }
+	  	.moven{
+		position: absolute;
+		top:20px;
+		left: 80px;
+		color: white;
+		font-size: 25px;
+		  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+		  text-align: center;
+
+	}
+	.but5{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 13px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:78px;
+	left:53%;
+	}
+	.but4{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 13px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:78px;
+	left:37%;
+	}
+	.but3{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 13px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:78px;
+	left:15%;
+	}
+	.but2{
+		border: 2px solid white;
+	color: white;
+	background: transparent;
+	border-radius: 50px;
+	font-size: 13px;
+	margin: 12px;
+	opacity: 0.7;
+	padding: 4px;
+	position: absolute;
+	top:78px;
+	left:5%;
+	}
+.wall4{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+	
+		position: absolute;
+		top:155px;
+		right:5%;
+	  }
+	   .wall4 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall4 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall5{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		
+		position: absolute;
+		top:155px;
+		right:55%;
+	  }
+	   .wall5 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall5 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall6{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		
+		position: absolute;
+		top:460px;
+		right:55%;
+	  }
+	   .wall6 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall6 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall7{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		
+		position: absolute;
+		top:460px;
+		right:5%;
+	  }
+	   .wall7 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall7 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall8{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		
+		position: absolute;
+		top:750px;
+		right:5%;
+	  }
+	   .wall8 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall8 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall9{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		
+		position: absolute;
+		top:750px;
+		right:55%;
+	  }
+	   .wall9 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall9 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall02{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+	
+		position: absolute;
+		top:1050px;
+		right:55%;
+	  }
+	   .wall02 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall02 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.wall01{
+		background: rgb(216, 214, 214);
+		
+		width:40%;
+		height: 250px;
+	
+		border-radius: 25px;
+	  margin-left: 26%;
+		display: inline-block;
+		position: absolute;
+		top:1050px;
+		right:5%;
+	  }
+	   .wall01 p{
+	padding-top: 15px;
+text-align: center;
+
+  }
+  .wall01 button{
+	border-radius: 25px;
+	padding: 3px;
+	margin-left:37%;
+	margin-top: 15%;
+	background-color: rgb(5, 158, 5);
+	color: white;
+}
+.mob1{
+	display: none;
+}
+.div5{
+	width: 100%;
+	height: 1400px;
+}
+.img5{
+	height:50px;
+	width:50px;
+}
+.section7{
+	height: 640px;
+	width:100%;
+	background: white;
+}
+}
